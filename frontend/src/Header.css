@@ -1,0 +1,38 @@
+.header-box {
+  background-color: #1a56db;
+  height: 70px;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.user-box {
+  margin: 1rem;
+  height: auto;
+  background-color: gray;
+  width: 40px;
+  border-radius: 100px;
+  justify-content: center;
+}
+.header-left {
+  color: white;
+  display: flex;
+  height: auto;
+  width: 100%;
+  letter-spacing: 4px;
+  font-weight: bold;
+  gap: 6rem;
+}
+.site-logo {
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header-links {
+  font-size: larger;
+  display: flex;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
