@@ -1,0 +1,11 @@
+.footerbox{
+    position : absolute;
+    bottom: 0px;
+    width: 100%;
+    display : flex;
+    background-color:#1a56db;
+}
+
+h5{
+    color : white;
+}
