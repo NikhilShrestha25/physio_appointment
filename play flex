@@ -1,0 +1,41 @@
+[33mcommit 5327014c4c834c5366ed1f754efc7f3aea2b175b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdaksh[m[33m, [m[1;31morigin/daksh[m[33m)[m
+Author: daksh0110 <dakshmahajan0110@gmail.com>
+Date:   Sat Oct 26 20:12:10 2024 +0530
+
+    header is now responsive
+
+[33mcommit 0655b8063263dd20519621decc5f95d35180879a[m
+Author: daksh0110 <dakshmahajan0110@gmail.com>
+Date:   Sat Oct 26 20:05:26 2024 +0530
+
+    designing ui for responsive header
+
+[33mcommit 9fb4099bc2f57bc50569f0a935911eb1be585dc4[m
+Author: daksh0110 <dakshmahajan0110@gmail.com>
+Date:   Sat Oct 26 13:35:08 2024 +0530
+
+    chnaged header layout for desktop
+
+[33mcommit 2e8647a74d1ffee65b0e8136e88f9757385332df[m
+Author: daksh0110 <dakshmahajan0110@gmail.com>
+Date:   Fri Oct 25 01:27:58 2024 +0530
+
+    Changed my branch from main to this
+
+[33mcommit b220c59b732dd6baa320cc7efc2653ee66ce2bb3[m[33m ([m[1;31morigin/dakshm[m[33m, [m[1;32mdakshm[m[33m)[m
+Author: daksh0110 <dakshmahajan0110@gmail.com>
+Date:   Thu Oct 24 23:09:21 2024 +0530
+
+     deleted some garbage
+
+[33mcommit d1a9fbcf10d47792762145d1a40f18335e5e0f69[m[33m ([m[1;31morigin/Akash[m[33m)[m
+Author: NIKHIL SHRESTHA <shrestha.nikhil0025@gmail.com>
+Date:   Thu Oct 24 22:10:28 2024 +0530
+
+    add a react file
+
+[33mcommit 1b79b160a23ee695a2e2f4a61e71f67711193dea[m
+Author: NIKHIL SHRESTHA <122038862+NikhilShrestha25@users.noreply.github.com>
+Date:   Thu Oct 24 21:47:23 2024 +0530
+
+    Initial commit
