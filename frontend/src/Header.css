@@ -7,6 +7,7 @@
   letter-spacing: 4px;
   overflow: hidden;
   font-weight: bold;
+  user-select: none;
 }
 .user-box {
   align-items: center;
@@ -60,6 +61,10 @@
   }
 
   .header-links {
+    display: none;
+  }
+
+  .header-links.open {
     margin-top: 60px;
     display: flex;
     justify-content: center;

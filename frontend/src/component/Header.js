@@ -11,13 +11,16 @@ const Header = () => {
   return (
     <nav className="header-box">
       <div className="site-logo"> Logo</div>
-      <div className="header-links">
+      <div className={`header-links ${menuOpen ? "open" : ""}`}>
         <h5>Home</h5>
         <h5>Contact</h5>
         <h5>About</h5>{" "}
       </div>
       <div className="user-box">Login</div>
-      <div className="menu-icon " onClick={() => toggleMenu()}>
+      <div
+        className={`menu-icon ${menuOpen ? "open" : ""}`}
+        onClick={() => toggleMenu()}
+      >
         <MenuIcon />
       </div>
     </nav>
