@@ -1,0 +1,23 @@
+.footerbox{
+    position : absolute;
+    bottom: 0px;
+    width: 100%;
+    display : flex;
+    background-color: #1a56db;
+    justify-content: space-between;
+}
+
+/* .SocialMedia{
+    width : 3rem;
+    display: flex;
+    justify-content: space-evenly;
+} */
+
+a{
+    color: white;
+    font-size: 2rem;
+    margin: 5px;
+}
+h5{
+    color : white;
+}

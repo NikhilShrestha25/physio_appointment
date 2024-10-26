@@ -1,3 +1,4 @@
+
 import React, { useState } from "react";
 import "../Header.css";
 import MenuIcon from "../icons/MenuIcon";
@@ -24,7 +25,7 @@ const Header = () => {
         <MenuIcon />
       </div>
     </nav>
-  );
-};
+  )
+}
 
 export default Header;
